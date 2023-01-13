@@ -1,9 +1,9 @@
 import { createSlice } from "@reduxjs/toolkit";
 import { Action } from "@remix-run/router";
-import { MovieType } from "../../types/pokemon";
+import { PokemonType } from "../../types/pokemon";
 
 interface StateType {
-  favorites: MovieType[];
+  favorites: PokemonType[];
   loading: boolean;
 }
 
