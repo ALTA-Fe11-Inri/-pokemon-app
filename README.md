@@ -1,3 +1,3 @@
 # my pokemon-app-react
 
-url my movies app =>>pokemon-app-inriv-lsjvf92eq-inri.vercel.app
+url my movies app =>> (https://pokemon-app-inriv-lsjvf92eq-inri.vercel.app)
